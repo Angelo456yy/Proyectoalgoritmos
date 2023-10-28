@@ -1,0 +1,3 @@
+002,Leche,20,Samjuan,12.0
+003,Azucar,89,Sandan,35.5
+004,PAn,89,SANPEDO,21.2
